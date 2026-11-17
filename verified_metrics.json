@@ -1,0 +1,110 @@
+{
+  "Baseline_Open_Bilateral": {
+    "total_rounds": 72,
+    "overall_closure_rate": 0.972,
+    "closure_rate_by_persona": {
+      "Student": 1.0,
+      "Startup": 1.0,
+      "Enterprise": 0.917
+    },
+    "mean_settled_price": {
+      "Student": 1579.17,
+      "Startup": 2739.58,
+      "Enterprise": 7214.55
+    },
+    "std_settled_price": {
+      "Student": 290.77,
+      "Startup": 1469.84,
+      "Enterprise": 4884.63
+    },
+    "mean_buyer_surplus": {
+      "Student": 220.83,
+      "Startup": 1760.42,
+      "Enterprise": 4386.67
+    },
+    "price_discrimination_ratio_ent_to_stu": 4.569,
+    "welch_t_stat": 5.403,
+    "welch_p_value": 2.3e-05
+  },
+  "metadata_redaction": {
+    "total_rounds": 72,
+    "overall_closure_rate": 0.958,
+    "closure_rate_by_persona": {
+      "Student": 0.958,
+      "Startup": 0.958,
+      "Enterprise": 0.958
+    },
+    "mean_settled_price": {
+      "Student": 1569.57,
+      "Startup": 2177.7,
+      "Enterprise": 2239.13
+    },
+    "std_settled_price": {
+      "Student": 267.45,
+      "Startup": 1192.51,
+      "Enterprise": 2101.35
+    },
+    "mean_buyer_surplus": {
+      "Student": 220.83,
+      "Startup": 2225.54,
+      "Enterprise": 9354.17
+    },
+    "price_discrimination_ratio_ent_to_stu": 1.427,
+    "welch_t_stat": 1.516,
+    "welch_p_value": 0.143341
+  },
+  "zk_escrow_commitment": {
+    "total_rounds": 72,
+    "overall_closure_rate": 1.0,
+    "closure_rate_by_persona": {
+      "Student": 1.0,
+      "Startup": 1.0,
+      "Enterprise": 1.0
+    },
+    "mean_settled_price": {
+      "Student": 1437.5,
+      "Startup": 1321.67,
+      "Enterprise": 1401.04
+    },
+    "std_settled_price": {
+      "Student": 152.69,
+      "Startup": 110.16,
+      "Enterprise": 84.85
+    },
+    "mean_buyer_surplus": {
+      "Student": 362.5,
+      "Startup": 3178.33,
+      "Enterprise": 10598.96
+    },
+    "price_discrimination_ratio_ent_to_stu": 0.975,
+    "welch_t_stat": -1.022,
+    "welch_p_value": 0.313393
+  },
+  "Rebuttal_Mechanism_Refinement": {
+    "total_rounds": 54,
+    "overall_closure_rate": 1.0,
+    "closure_rate_by_persona": {
+      "Student": 1.0,
+      "Startup": 1.0,
+      "Enterprise": 1.0
+    },
+    "mean_settled_price": {
+      "Student": 1602.78,
+      "Startup": 1976.83,
+      "Enterprise": 4905.58
+    },
+    "std_settled_price": {
+      "Student": 309.4,
+      "Startup": 1361.11,
+      "Enterprise": 5086.69
+    },
+    "mean_buyer_surplus": {
+      "Student": 197.22,
+      "Startup": 2523.17,
+      "Enterprise": 7094.42
+    },
+    "price_discrimination_ratio_ent_to_stu": 3.061,
+    "welch_t_stat": 2.75,
+    "welch_p_value": 0.013611
+  }
+}
